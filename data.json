@@ -1,0 +1,48 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"username": "admin",
+			"password": "admin",
+			"role": "admin"
+		},
+		{
+			"id": 2,
+			"username": "user",
+			"password": "user",
+			"role": "user"
+		},
+		{
+			"id": 3,
+			"username": "user2",
+			"password": "user2",
+			"role": "user"
+		}
+	],
+	"product": [
+		{
+			"id": 1,
+			"name": "Gaine thermorétractable 2:1",
+			"price": 100,
+			"description": "Une gaine thermorétractable est un tube en plastique qui se rétracte lorsqu'il est chauffé. Elle est utilisée pour protéger des câbles, des fils électriques, des connecteurs, des bornes, des soudures, des composants électroniques, etc.",
+			"imageUrl": "https://placehold.co/600x400",
+			"quantity": 10
+		},
+		{
+			"id": 2,
+			"name": "Câble HDMI",
+			"price": 50,
+			"description": "Le câble HDMI (High Definition Multimedia Interface) est un câble permettant de transmettre des signaux audio et vidéo numériques entre des appareils compatibles.",
+			"imageUrl": "https://placehold.co/600x400",
+			"quantity": 5
+		},
+		{
+			"id": 3,
+			"name": "Câble USB",
+			"price": 20,
+			"description": "Le câble USB (Universal Serial Bus) est un câble permettant de transmettre des données entre des appareils compatibles.",
+			"imageUrl": "https://placehold.co/600x400",
+			"quantity": 15
+		}
+	]
+}
